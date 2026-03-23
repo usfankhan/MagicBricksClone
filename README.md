@@ -14,9 +14,7 @@ Users can search properties available in **Bangalore** and **Mumbai** with filte
 - **Package Manager:** npm
 
 ---
-
 # Project Structure
-
 
 antigravity/
 │
@@ -31,9 +29,6 @@ antigravity/
 │ └── vite.config.js
 │
 └── README.md
-
-
----
 
 # Installation Guide
 
@@ -62,7 +57,6 @@ Backend will run on:
 http://127.0.0.1:8000
 
 API Docs:
-
 http://127.0.0.1:8000/docs
 Frontend Setup
 7️⃣ Navigate to Frontend
